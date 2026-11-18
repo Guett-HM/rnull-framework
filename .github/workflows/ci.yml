@@ -8,7 +8,8 @@ on:
 jobs:
   tests-numpy:
     name: Tests (NumPy only, Python ${{ matrix.python }})
-    runs-on: ubuntu-latest
+    # Python 3.9 is no longer built for the newest Ubuntu runner image
+    runs-on: ubuntu-24.04
     strategy:
       fail-fast: false
       matrix:
