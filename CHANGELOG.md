@@ -12,7 +12,9 @@ hardware are unchanged.
   dashboard updated. The Zenodo DOIs are unchanged.
   Release tags were not carried over to the new repository; the released
   versions are archived on Zenodo. Versions 1.0.0 and 1.0.1 correspond to commit
-  c571013 and version 1.1.0 to commit 0684431.
+  c571013. Version 1.1.0 was archived from commit 01a2e8e of the former repository;
+  after the history was rewritten to remove a co-author line, the same release is
+  commit 0684431 on `main`.
 * **CI:** the Python 3.9 test job runs on Ubuntu 24.04, where Python 3.9 is still available.
 * **README:** note on the use of AI assistants.
 * **Dashboard rewritten** as a self-contained page: no external stylesheets or
