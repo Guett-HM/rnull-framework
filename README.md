@@ -321,7 +321,7 @@ Release v1.1.0 is archived on Zenodo (v1.0.1: `10.5281/zenodo.24175268`):
 
 ```bibtex
 @software{guettal_2026_rnull,
-  author    = {Guettal, Hakim},
+  author    = {Guettal, H.},
   title     = {rnull-framework: Causal Transparency Algebra (R\_null), real arithmetic with a null identity element},
   year      = {2026},
   publisher = {Zenodo},

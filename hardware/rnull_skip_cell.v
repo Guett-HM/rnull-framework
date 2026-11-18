@@ -1,7 +1,7 @@
 // ============================================================================
 // Module  : rnull_skip_cell
 // Project : rnull-framework
-// Author  : Hakim Guettal
+// Author  : H. Guettal
 //
 // One pipeline stage of a chained accumulator that uses the *directed*
 // coupling  w |> x  instead of the absorbing coupling used by rnull_mac:

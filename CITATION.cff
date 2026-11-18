@@ -6,7 +6,7 @@ message: "If you use this software, please cite it using the metadata below."
 type: software
 authors:
   - family-names: "Guettal"
-    given-names: "Hakim"
+    given-names: "H."
 repository-code: "https://github.com/Guett-HM/rnull-framework"
 url: "https://doi.org/10.5281/zenodo.24215450"
 doi: 10.5281/zenodo.24215450

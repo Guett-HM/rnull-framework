@@ -1,7 +1,7 @@
 // ============================================================================
 // Module  : rnull_mac
 // Project : rnull-framework
-// Author  : Hakim Guettal
+// Author  : H. Guettal
 //
 // Multiply-accumulate cell with a 1-bit "null" tag on each operand.
 //
