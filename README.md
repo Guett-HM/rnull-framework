@@ -1,6 +1,6 @@
 # rnull-framework — Causal Transparency Algebra (ℝ<sub>∅</sub>)
 
-[![CI](https://github.com/GuettHM/rnull-framework/actions/workflows/ci.yml/badge.svg)](https://github.com/GuettHM/rnull-framework/actions/workflows/ci.yml)
+[![CI](https://github.com/Guett-HM/rnull-framework/actions/workflows/ci.yml/badge.svg)](https://github.com/Guett-HM/rnull-framework/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24215450-blue.svg)](https://doi.org/10.5281/zenodo.24215450)
 
@@ -38,7 +38,7 @@ arrays, NaN-skipping reductions and SQL `NULL` aggregates; see
 ## Installation
 
 ```bash
-git clone https://github.com/GuettHM/rnull-framework.git
+git clone https://github.com/Guett-HM/rnull-framework.git
 cd rnull-framework
 pip install -e ".[dev]"            # NumPy reference + pytest
 pip install -e ".[dev,torch]"      # also installs PyTorch

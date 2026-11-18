@@ -7,6 +7,9 @@ hardware are unchanged.
 
 ### Changed
 
+* **Repository moved** to https://github.com/Guett-HM/rnull-framework after the old
+  account was closed; links in the README, CITATION.cff, pyproject.toml and the
+  dashboard updated. The Zenodo DOIs are unchanged.
 * **Dashboard rewritten** as a self-contained page: no external stylesheets or
   fonts, so it works offline. It now covers all six operators (including ⊖ and
   ⊘), the distributivity defect, the linear layer with coverage and the three

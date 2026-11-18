@@ -45,9 +45,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/GuettHM/rnull-framework"
-Repository = "https://github.com/GuettHM/rnull-framework"
-Changelog = "https://github.com/GuettHM/rnull-framework/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/Guett-HM/rnull-framework"
+Repository = "https://github.com/Guett-HM/rnull-framework"
+Changelog = "https://github.com/Guett-HM/rnull-framework/blob/main/CHANGELOG.md"
 DOI = "https://doi.org/10.5281/zenodo.24215450"
 
 [tool.setuptools]

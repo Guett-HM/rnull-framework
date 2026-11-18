@@ -7,7 +7,7 @@ type: software
 authors:
   - family-names: "Guettal"
     given-names: "Hakim"
-repository-code: "https://github.com/GuettHM/rnull-framework"
+repository-code: "https://github.com/Guett-HM/rnull-framework"
 url: "https://doi.org/10.5281/zenodo.24215450"
 doi: 10.5281/zenodo.24215450
 version: 1.1.0
