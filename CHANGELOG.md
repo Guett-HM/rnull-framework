@@ -14,6 +14,7 @@ hardware are unchanged.
   versions are archived on Zenodo. Versions 1.0.0 and 1.0.1 correspond to commit
   c571013 and version 1.1.0 to commit 0684431.
 * **CI:** the Python 3.9 test job runs on Ubuntu 24.04, where Python 3.9 is still available.
+* **README:** note on the use of AI assistants.
 * **Dashboard rewritten** as a self-contained page: no external stylesheets or
   fonts, so it works offline. It now covers all six operators (including ⊖ and
   ⊘), the distributivity defect, the linear layer with coverage and the three

@@ -22,6 +22,8 @@ The repository contains
 **Status: research prototype (alpha).** The semantics are tested; the practical
 benefit is modest and is stated plainly below.
 
+*AI assistants helped write these documents.*
+
 ## What it is, and what it is not
 
 | It provides | It does not provide |
